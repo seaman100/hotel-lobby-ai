@@ -4,7 +4,7 @@ An AI toolkit for hotel front-desk and guest-experience writing tasks.
 
 ## Links
 
-- [Hotel Lobby AI](https://hotellobbyai.top/)
+- [hotel lobby AI](https://hotellobbyai.top/)
 
 - [Main site](https://hotellobbyai.top/)
 
