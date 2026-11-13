@@ -2,12 +2,12 @@
 
 An AI toolkit for hotel front-desk and guest-experience writing tasks.
 
-## Links
+The tool itself is at [Hotel Lobby AI template](https://hotellobbyai.top/hotel-lobby-ai-template.html).
 
-- [hotel lobby AI](https://hotellobbyai.top/)
+There is a longer walkthrough at [what goes into a hotel lobby AI video](https://hotellobbyai.top/hotel-lobby-ai-guide.html).
 
-- [Main site](https://hotellobbyai.top/)
+Project home: [Hotel Lobby AI](https://hotellobbyai.top/).
 
-## Notes
+---
 
-Independent project. Free to use in the browser; no account required.
+Independent project. Free to use in the browser, no account required.
